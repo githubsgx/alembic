@@ -91,7 +91,7 @@ baseurl: ""
 repo: "https://github.com/githubsgx/site"
 email: "syvenb@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496757256126&di=3103788769e04c6aeeceea2044fe7bbd&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F11%2F36%2F38%2F93558PICvIF.jpg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "/assets/80-80.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
